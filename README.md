@@ -9,7 +9,7 @@
 
 ## 🚀 Goals
 - Build and share beginner-friendly projects  
-- Get better at problem-solving with DSA    
+- Get better at problem-solving with DSA     
 - Keep learning every single day ✨  
 
 ---
