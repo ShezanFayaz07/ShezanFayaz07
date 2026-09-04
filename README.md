@@ -19,7 +19,7 @@
 
 - 🎓 BCA Graduate — Islamia College of Science and Commerce, Srinagar, J&K
 - 💼 Full-Stack Developer with real-world experience across **MERN**, **PERN**, Python, and AI-integrated apps
-- 🏢 Interned at **Uptooskills** (PERN stack) and **Emily Labs AI Academy** (Python/AI)
+- 🏢 Interned at **UptoSkills** (PERN stack) and **Emily Labs AI Academy** (Python/AI)
 - 🌱 Currently sharpening **DSA, TypeScript, Docker, and cloud deployment**
 - 📫 Open to **Software Engineer / Full-Stack Developer** roles (remote-India & remote-global)
 
